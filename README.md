@@ -110,12 +110,6 @@ A React (Vite + Tailwind) frontend backed by a Node.js/Express REST API with Mon
 Looking for entry-level roles across **software development, full-stack/backend engineering, and IT/networking** — my projects span three different web stacks, relational database design, enterprise networking (Cisco), and systems programming, so I'm comfortable ramping up fast on whichever foundation a team needs.
 
 <br/>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrithikcse&layout=compact&theme=react&hide_border=true&langs_count=8" alt="top languages"/>
-</p>
-
-<br/>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hrithikcse/hrithikcse/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation"/>
 </p>
